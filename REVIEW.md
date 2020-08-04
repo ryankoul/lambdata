@@ -4,4 +4,4 @@
 - Code is very well commented, I knew exactly what you were thinking with every step 
 - Keep hammering away, we dont learn by doing things correctly, we learn by failing. 
 
-Let me know when you 
+Send me over a link to you pypi upload once you get it there and ill be the first to try it out besides you. 
