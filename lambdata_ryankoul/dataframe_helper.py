@@ -29,20 +29,3 @@ def add_list_to_dataframe(ls, df, col_name='new_col'):
     df[col_name] = ls
 
     return df
-
-
-# # Test data
-# df = pd.DataFrame(
-#     np.random.randint(0, 100, size=(10, 10)),
-#     columns=list('ABCDEFGHIJ')
-# )
-# # # Instantiate class, test method
-# # test_df = MyDataFrame()
-# train, test = df_splitter(df)
-
-# assert train.shape == (8, 10), test.shape == (2, 10)
-
-
-# # Test
-# list_1 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-# print(add_list_to_dataframe(list_1, df))
